@@ -1,2 +1,3 @@
 Hello everyone
 Save progress step by step
+Saves staged changes to the repository.
